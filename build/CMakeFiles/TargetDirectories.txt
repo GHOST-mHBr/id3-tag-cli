@@ -1,0 +1,3 @@
+/home/arch/Desktop/Codes/Repos/id3-tag-cli/build/CMakeFiles/id3-tag-editor.dir
+/home/arch/Desktop/Codes/Repos/id3-tag-cli/build/CMakeFiles/edit_cache.dir
+/home/arch/Desktop/Codes/Repos/id3-tag-cli/build/CMakeFiles/rebuild_cache.dir
